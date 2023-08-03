@@ -1,6 +1,6 @@
 {
-  "name": "Chrome Extension Svelte Template",
-  "description": "Chrome Extension Svelte Template: it does things.",
+  "name": "Supercharge X",
+  "description": "Supercharge X. Steroids for your X.",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
