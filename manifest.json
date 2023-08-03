@@ -31,6 +31,6 @@
     "page": "src/options/options.html",
     "open_in_tab": true
   },
-  "permissions": ["storage"],
+  "permissions": ["activeTab", "downloads", "tabs", "storage"],
   "host_permissions": ["<all_urls>"]
 }
