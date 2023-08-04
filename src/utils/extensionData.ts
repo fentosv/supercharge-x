@@ -1,4 +1,3 @@
-export const extension = {
-  name: chrome.runtime.getManifest().name,
-  id: chrome.runtime.id,
-}
+export const extensionName = chrome.runtime.getManifest().name
+
+export const extensionId = chrome.runtime.id
