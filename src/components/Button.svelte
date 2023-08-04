@@ -59,8 +59,8 @@
 
   .secondary {
     --background-color: transparent;
-    color: var(--color-dark-1);
-    --border-color: var(--color-dark-1);
+    color: var(--color-light-1);
+    --border-color: var(--color-light-1);
   }
 
   .alert {
